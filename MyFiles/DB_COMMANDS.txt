@@ -1,0 +1,15 @@
+Database
+====================
+2). MYSQL
+3). MS-SQL
+4). SQLite
+5). Oracle
+
+Database Commands
+===================
+1). DDL - create, drop, truncate, rename, alter
+2). DML - insert, update, delete
+3). DQL - select
+-------------------------------------------------
+4). DCL - Grant, Revoke 
+5). TCL - commit, rollback, savepoint
